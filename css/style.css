@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+}
+
+.main{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h4{
+    background-color: #7abf65;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
+
+.second-main{
+    width: 23vw;
+}
+
+input{
+    width: 69%;
+    border: 3px solid #7abf65;
+    height: 22px;
+}
+
+.submit{
+    background-color: white;
+    border: 3px solid #7abf65;
+    color: #7abf65;
+    height: 30px;
+}
+
+.skill button{
+    background-color: #7abf65;
+    color: white;
+    border: none;
+    margin-right: 5px;
+}
+
+span{
+    color: #5ed938;
+    margin: 3px;
+}
+
+.skills{
+    margin-bottom: 5px;
+}
+
